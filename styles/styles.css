@@ -27,6 +27,10 @@ img {
   width: 50%;
 }
 
+#index-photo {
+  width: 75%;
+}
+
 .content-width {
   max-width: 70ch;
   width: calc(100% - 4rem);
